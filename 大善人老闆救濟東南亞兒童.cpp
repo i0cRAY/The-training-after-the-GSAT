@@ -1,3 +1,5 @@
+// AI 程度 : 1 (完全自己寫)
+
 #include <bits/stdc++.h>
 #define int long long
 
